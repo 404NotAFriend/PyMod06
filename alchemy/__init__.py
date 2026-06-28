@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
 from alchemy.elements import create_air  # noqa: F401
+from alchemy.potions import healing_potion as heal  # noqa: F401
+from alchemy.potions import strength_potion  # noqa: F401
